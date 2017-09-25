@@ -7,3 +7,5 @@ Spring
 Hibernate
 jQuery
 myBatis
+
+Blue Prism
