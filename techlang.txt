@@ -1,0 +1,7 @@
+
+Welcome to vodapally technologies
+
+Core Java
+JSP
+Spring
+Hibernate
