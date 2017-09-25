@@ -5,3 +5,5 @@ Core Java
 JSP
 Spring
 Hibernate
+jQuery
+myBatis
